@@ -33,7 +33,7 @@ exports.createPages = ({ graphql, actions }) => {
       throw result.errors
     }
 
-    // Create blog posts pages.
+    // Create blog posts pages. x
     const posts = result.data.allMarkdownRemark.edges.filter(
       ({ node }) => !node.frontmatter.draft && !!node.frontmatter.category
     )
