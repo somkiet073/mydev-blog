@@ -10,7 +10,7 @@ export const Header = ({ title, location, rootPath }) => {
       <h1 className="home-header">
         <Link to={`/`} className="link">
           {title}
-        </Link>
+        </Link><span className="header-span" >😻🌻</span>
       </h1>
     )
   )

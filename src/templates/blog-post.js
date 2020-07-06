@@ -62,7 +62,7 @@ export default ({ data, pageContext, location }) => {
     </Layout>
   )
 }
-
+//utterances
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
     site {
@@ -72,7 +72,7 @@ export const pageQuery = graphql`
         siteUrl
         comment {
           disqusShortName
-          utterances
+          
         }
         sponsor {
           buyMeACoffeeId
