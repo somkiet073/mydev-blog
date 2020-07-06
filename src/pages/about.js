@@ -14,7 +14,6 @@ export default ({ data }) => {
     .map(({ node }) => node)[0]
 
   return (
-    <Layout location={location} title={siteMetadata.title}>
       <div
         style={{
           marginLeft: `auto`,
@@ -27,7 +26,6 @@ export default ({ data }) => {
       >
         <div dangerouslySetInnerHTML={{ __html: resume.html }} />
       </div>
-    </Layout>
   )
 }
 
