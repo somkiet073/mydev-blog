@@ -24,7 +24,7 @@ $ npm start
 $ git commit [...]
 $ git push origin [YOUR_REPOSITORY]
 
-# Enroll pull-request!
+# Enroll pull-requests!
 # in https://github.com/JaeYeopHan/gatsby-starter-bee
 ```
 
