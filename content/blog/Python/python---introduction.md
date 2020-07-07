@@ -6,4 +6,4 @@ category: 'Python'
 draft: false
 ---
 
-Python has a simple syntax similar to the English language. Python has syntax that allows developers to write programs with fewer lines than some other programming languages. Python runs on an interpreter system, meaning that code can be executed as soon as it is written.
+Python มีรูปแบบที่เรียบง่ายคล้ายกับภาษาอังกฤษ Python มีไวยากรณ์ที่ช่วยให้นักพัฒนาสามารถเขียนโปรแกรมที่มีบรรทัดน้อยกว่าภาษาโปรแกรมอื่น Python ทำงานบนระบบล่ามซึ่งหมายความว่าสามารถเรียกใช้งานรหัสได้ทันทีที่เขียน.

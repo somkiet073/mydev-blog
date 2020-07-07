@@ -3,7 +3,7 @@ module.exports = {
   description: `Blog posted about ...`,
   author: `Somkiet 👏`,
   introduction: `📝 สวัสดีครับ !! ผมชื่อ 🎉 Somkiet Paowang 🎉 เป็น Programmer ผมจัดทำ Blog นี้ขึ้นมาเพื่อแบ่งปันความรู้และประสบการณ์ต่างๆ ที่ได้สะสมมาในระยะเวลา 3 ปี ผมหวังว่า 📚บทความเหล่าๆนี้ จะเป็นประโยชน์กับเพื่อนๆ ทุกคนครับ ❤️`,
-  siteUrl: `https://gatsby-starter-bee.netlify.com`, // Your blog site url
+  siteUrl: `https://somkiet073.github.io/mydev-blog/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `somkiet073`, // Your GitHub account
@@ -11,7 +11,7 @@ module.exports = {
     facebook: ``, // Your Facebook account
     linkedin: ``, // Your LinkedIn account
   },
-  icon: `content/assets/felog.png`, // Add your favicon
+  icon: `content/assets/favicon.png`, // Add your favicon
   keywords: [`blog`],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.

@@ -6,4 +6,4 @@ category: 'Angular CLI'
 draft: false
 ---
 
-Angular is the most popular JavaScript framework and platform for developing client-side (front-end) mobile and desktop web apps or single page applications (SPAs).
+Angular เป็นเฟรมเวิร์กและแพลตฟอร์ม JavaScript ที่ได้รับความนิยมสูงสุดสำหรับการพัฒนาแอพพลิเคชั่นบนมือถือและเดสก์ท็อปเว็บเดสก์ท็อปหรือแอปพลิเคชันหน้าเดียว (SPAs).

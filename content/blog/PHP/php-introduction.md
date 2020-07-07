@@ -5,4 +5,4 @@ category: 'PHP'
 draft: false
 ---
 
-PHP started out as a small open source project that evolved as more and more people found out how useful it was. Rasmus Lerdorf unleashed the first version of PHP way back in 1994.
+PHP เริ่มต้นจากโครงการโอเพนซอร์สขนาดเล็กที่พัฒนาขึ้นเรื่อย ๆ เนื่องจากผู้คนจำนวนมากพบว่ามันมีประโยชน์มากเพียงใด Rasmus Lerdorf เปิดตัว PHP รุ่นแรกในปี 1994.

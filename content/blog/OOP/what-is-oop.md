@@ -6,4 +6,4 @@ category: 'OOP'
 draft: false
 ---
 
-Object-Oriented Programming (OOP) is the term used to describe a programming approach based on objects and classes. The object-oriented paradigm allows us to organise software as a collection of objects that consist of both data and behaviour.
+Object-Oriented Programming (OOP) เป็นคำที่ใช้อธิบายวิธีการเขียนโปรแกรมตามวัตถุและคลาส กระบวนทัศน์เชิงวัตถุช่วยให้เราสามารถจัดระเบียบซอฟต์แวร์เป็นชุดของวัตถุที่ประกอบด้วยข้อมูลและพฤติกรรม.

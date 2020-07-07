@@ -6,4 +6,4 @@ category: 'Flutter'
 draft: false
 ---
 
-Flutter widgets are built using a modern framework that takes inspiration from React. The central idea is that you build your UI out of widgets. Widgets describe what their view should look like given their current configuration and state. When a widget’s state changes, the widget rebuilds its description, which the framework diffs against the previous description in order to determine the minimal changes needed in the underlying render tree to transition from one state to the next.
+Flutter วิดเจ็ตถูกสร้างขึ้นโดยใช้เฟรมเวิร์กสมัยใหม่ที่ใช้แรงบันดาลใจจาก React แนวคิดหลักคือคุณสร้าง UI จากวิดเจ็ต วิดเจ็ตอธิบายว่ามุมมองของพวกเขาควรมีลักษณะอย่างไรเมื่อกำหนดค่าและสถานะปัจจุบัน เมื่อสถานะของวิดเจ็ตเปลี่ยนวิดเจ็ตจะสร้างคำอธิบายใหม่ซึ่งเฟรมเวิร์กจะแตกต่างกับคำอธิบายก่อนหน้าเพื่อพิจารณาการเปลี่ยนแปลงเล็กน้อยที่จำเป็นในแผนผังการแสดงผลต้นแบบเพื่อเปลี่ยนจากสถานะหนึ่งไปเป็นสถานะถัดไป.
